@@ -4,6 +4,12 @@
   "readme": "README.mbt.md",
   "repository": "",
   "license": "Apache-2.0",
-  "keywords": [],
-  "description": ""
+  "keywords": [
+    "interactive-brokers",
+    "tws",
+    "trading",
+    "javascript",
+    "nodejs"
+  ],
+  "description": "JavaScript/Node.js target of ibmoon - MoonBit wrapper for IB TWS/Gateway API with JavaScript FFI socket implementation"
 }

@@ -1,1 +1,9 @@
-{}
+{
+    "is-link": true,
+    "link": {
+        "js": {
+            "path": "socket_impl.js",
+            "js-ffi": true
+        }
+    }
+}
