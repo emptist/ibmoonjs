@@ -1,10 +1,5 @@
 {
     "is-builtin": false,
-    "link": {
-        "js": {
-            "path": "socket_impl.js"
-        }
-    },
     "import": [],
     "test-import": []
 }
